@@ -6,11 +6,11 @@ The purpose of this assignment was to refactor the Horiseon landing page. This i
 
 ## Changes Made
 
-* A descriptive tile was given to the webpage.
+* A descriptive title was given to the webpage.
 * HTML elements were replaced with appropriate semantic elements.
-* Descriptive comments were added to the HTML and CSS files.
-* Certain CSS classes were combined to remove unecessary redundancies. 
-* Alt text was added to images to improve accessibility
+* Descriptive comments were added to the HTML and CSS file.
+* Certain CSS classes were combined to remove unnecessary redundancies. 
+* Alt text was added to images to improve accessibility.
 
 ## Image of Webpage
 
@@ -18,6 +18,6 @@ The purpose of this assignment was to refactor the Horiseon landing page. This i
 
 ## Link to Webpage
 
-![Deployed Website](https://github.com/tmantena1/Horiseon-Landing-Page)
+[Deployed Website](https://tmantena1.github.io/Horiseon-Landing-Page/)
 
-![Github Code Repo](https://tmantena1.github.io/Horiseon-Landing-Page/)
+[Github Code Repo](https://github.com/tmantena1/Horiseon-Landing-Page.git)
